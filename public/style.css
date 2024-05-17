@@ -1,0 +1,20 @@
+.py-10 {
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+}
+
+#__nuxt > div > div.flex.justify-between.max-w-2xl.px-4.py-4.mx-auto.sm\:px-8 > div.space-x-3.transition.text-gray-500 > a:nth-child(1) {
+    display: none;
+}
+
+#__nuxt > div > div.flex.justify-between.max-w-2xl.px-4.py-4.mx-auto.sm\:px-8 > div.space-x-3.transition.text-gray-500 > a:nth-child(3) {
+    display: none;
+}
+
+#__nuxt > div > div.flex.justify-between.max-w-2xl.px-4.py-4.mx-auto.sm\:px-8 > div.space-x-3.transition.text-gray-500 > button {
+    display: none;
+}
+
+.mr-6:nth-child(2) {
+    display: none;
+}
