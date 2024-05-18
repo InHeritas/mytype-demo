@@ -24,6 +24,10 @@
     margin-top: 0px;
 }
 
+strong {
+    font-weight: bold;
+}
+
 .mr-6:nth-child(2) {
     display: none;
 }
