@@ -13,7 +13,7 @@ export default function Home() {
               콩고물과 우유가 들어간 빙수는 차게 먹어야 특별한 맛이 잘 표현된다.
             </p>
           </div>
-          
+
           <div className="space-y-2">
             <p className="font-bold">
               Grumpy wizards make toxic brew for the evil Queen and Jack.
@@ -22,7 +22,15 @@ export default function Home() {
               Grumpy wizards make toxic brew for the evil Queen and Jack.
             </p>
           </div>
-          
+
+          <div className="code space-y-2 p-2 border border-neutral-300 rounded-md bg-neutral-50">
+            <pre>
+              <code>
+              function helloWorld() &#123;<br/>   console.log("Hello, World!"); <br/>&#125;
+              </code>
+            </pre>
+          </div>
+
           <p className="break-words">
             ❤ ♫ ☎ • ° ♨ ✈ ✣ ☏ ■ ☀ ➑ ✂ ☑ ✉ ☼ ☆ ✄ ✔ ✆ — ☁ ★ ♕ ✘ № ‰ ♠ ✪ ✝ ╳ © … ♥ ✰ † ✎ ® ¶ ♦ ✧ ‡ ✍ ™ ❆ ♣ ✦ ◑ ♀ ℮ ❅ ♤ ♡ ♪ ♂
           </p>
