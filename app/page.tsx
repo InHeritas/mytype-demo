@@ -23,14 +23,6 @@ export default function Home() {
             </p>
           </div>
 
-          <div className="code space-y-2 p-2 border border-neutral-300 rounded-md bg-neutral-50">
-            <pre>
-              <code style={{ fontSize: '16px' }}>
-              function helloWorld() &#123;<br/>   console.log("Hello, World!"); <br/>&#125;
-              </code>
-            </pre>
-          </div>
-
           <p className="break-words">
             ❤ ♫ ☎ • ° ♨ ✈ ✣ ☏ ■ ☀ ➑ ✂ ☑ ✉ ☼ ☆ ✄ ✔ ✆ — ☁ ★ ♕ ✘ № ‰ ♠ ✪ ✝ ╳ © … ♥ ✰ † ✎ ® ¶ ♦ ✧ ‡ ✍ ™ ❆ ♣ ✦ ◑ ♀ ℮ ❅ ♤ ♡ ♪ ♂
           </p>
