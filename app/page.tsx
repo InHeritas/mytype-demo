@@ -7,19 +7,26 @@ export default function Home() {
         <div className="space-y-8 text-gray-600 text-center">
           <div className="space-y-2">
             <p className="font-bold break-keep">
-              콩고물과 우유가 들어간 빙수는 차게 먹어야 특별한 맛이 잘 표현된다.
+              콩고물과 우유가 들어간 빙수는 차게 먹어야
+              <br />
+              특별한 맛이 잘 표현된다.
             </p>
             <p className="break-keep">
-              콩고물과 우유가 들어간 빙수는 차게 먹어야 특별한 맛이 잘 표현된다.
+              콩고물과 우유가 들어간 빙수는 차게 먹어야
+              <br />특별한 맛이 잘 표현된다.
             </p>
           </div>
 
           <div className="space-y-2">
             <p className="font-bold">
-              Grumpy wizards make toxic brew for the evil Queen and Jack.
+              Grumpy wizards make toxic brew
+              <br />
+              for the evil Queen and Jack.
             </p>
             <p>
-              Grumpy wizards make toxic brew for the evil Queen and Jack.
+              Grumpy wizards make toxic brew
+              <br />
+              for the evil Queen and Jack.
             </p>
           </div>
 
