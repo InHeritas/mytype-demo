@@ -30,57 +30,18 @@ export default function Home() {
             </p>
           </div>
 
+          <div className="space-y-2">
+            <p className="font-bold">
+              1 2 3 4 5 6 7 8 9 0
+            </p>
+            <p>
+              1 2 3 4 5 6 7 8 9 0
+            </p>
+          </div>
+
           <p className="break-words">
             ❤ ♫ ☎ • ° ♨ ✈ ✣ ☏ ■ ☀ ➑ ✂ ☑ ✉ ☼ ☆ ✄ ✔ ✆ — ☁ ★ ♕ ✘ № ‰ ♠ ✪ ✝ ╳ © … ♥ ✰ † ✎ ® ¶ ♦ ✧ ‡ ✍ ™ ❆ ♣ ✦ ◑ ♀ ℮ ❅ ♤ ♡ ♪ ♂
           </p>
-
-          <hr />
-
-          <div className="space-y-4">
-            <div className="space-y-3 px-4 md:px-8">
-              <p>
-                죽는 날까지 하늘을 우러러
-                <br />
-                한 점 부끄럼이 없기를,
-                <br />
-                잎새에 이는 바람에도
-                <br />
-                나는 괴로워했다.
-                <br />
-                <br />
-                별을 노래하는 마음으로
-                <br />
-                모든 죽어가는 것을 사랑해야지
-                <br />
-                그리고 나한테 주어진 길을
-                <br />
-                걸어가야겠다.
-                <br />
-                <br />
-                오늘 밤에도 별이 바람에 스치운다.
-              </p>
-            </div>
-          </div>
-
-          <div className="space-y-4">
-            <div className="space-y-3 px-4 md:px-8">
-              <p>
-                There was nothing so VERY remarkable in that;
-                <br />
-                nor did Alice think it so VERY much out of the way
-                <br />
-                to hear the Rabbit say to itself, 'Oh dear! Oh dear! I shall be
-                late!'
-              </p>
-              <p>
-                Burning with curiosity, she ran across the field after it,
-                <br />
-                and fortunately was just in time to see it pop
-                <br />
-                down a large rabbit-hole under the hedge.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
